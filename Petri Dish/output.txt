@@ -1,0 +1,28 @@
+                   a        
+                    aaa     
+   b  b             aaa     
+    bbb                     
+     bb          b  b aa    
+        c         bbb aa    
+       cc          bb aa    
+   a  cc     cc         a   
+aaa   cc   ccc  a           
+aaa        cc    aaa        
+    b  b         aaa    a   
+     bbb   c  cc     aaa    
+      bb  cc   ccc   aaa bbb
+         cc     cc        bb
+         cc           bb  b 
+                     bbb b  
+               b  b b  b    
+            cc  bbb         
+          ccc    bb         
+          cc                
+               bbb          
+            cc  bb          
+           ccc  b   cc      
+          cc   b    ccc     
+                      cc    
+             b  b           
+              bbb           
+               bb           
